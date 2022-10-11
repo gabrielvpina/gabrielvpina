@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @gabrielvpina! I am aspiring to become a Data Analyst
+## 👋 Hi, I’m @gabrielvpina! I am aspiring to become a Data Analyst
 
 ## Skills 
 
