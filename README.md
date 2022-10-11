@@ -2,6 +2,10 @@
 
 ## Skills 
 
+- Soft skills: I am proactive, self-taught and communicative
+- Hard Skills: Python, SQL, R
+- Studying: DevOps (AWS, Azure, Google Cloud), BI (Looker Studio, Tableau, Power BI)
+
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
