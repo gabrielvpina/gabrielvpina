@@ -4,7 +4,7 @@
 ## Skills 
 
 - :slightly_smiling_face: Soft skills: I am proactive, self-taught and communicative
-- :zap: Hard Skills: Python, R and Linux Terminal (for now)
+- :zap: Hard Skills: Python, R and Shell Script
 - :memo: Studying: Biopython, Linux, Bioinformatics
 
 ### Languages
