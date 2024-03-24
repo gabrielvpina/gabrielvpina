@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @gabrielvpina! 
 ### I am a master's student in genetics and molecular biology, with an emphasis on bioinformatics.
-![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white) @gabrielvpina
+![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white) -> @gabrielvpina
 
 ## Skills 
 
