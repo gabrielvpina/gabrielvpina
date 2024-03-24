@@ -1,20 +1,17 @@
 ## 👋 Hi, I’m @gabrielvpina! 
 ### I am a master's student in genetics and molecular biology, with an emphasis on bioinformatics.
+![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white) @gabrielvpina
 
 ## Skills 
 
-- :slightly_smiling_face: Soft skills: I am proactive, self-taught and communicative
-- :zap: Hard Skills: Python, R and Shell Script
-- :memo: Studying: Biopython, Linux, Bioinformatics
+- :zap: Hard Skills: Python, R,Docker & Shell Script;
 
-### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-
-### Operating System
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
 
 
 
