@@ -1,5 +1,5 @@
-## 👋 Hi, I’m @gabrielvpina! 
-### I am a master's student in genetics and molecular biology, with an emphasis on bioinformatics.
+### 👋 Hi, I’m @gabrielvpina! 
+ I am a master's student in genetics and molecular biology, with an emphasis on bioinformatics. I am currently developing workflows for RNAseq data to study plant innate immune systems and viral diversity from RNA samples.
 
 
 ## Skills 
