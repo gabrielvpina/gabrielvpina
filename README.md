@@ -4,7 +4,7 @@
 
 ## Skills 
 
-- :zap: Hard Skills: Python, R,Docker & Shell Script;
+- :zap: Hard Skills: Python, R & Shell Script;
 - :zap: Data Analysis: NGS, RNAseq, GSEA & Data Mining;
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
