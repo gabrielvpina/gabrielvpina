@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m @gabrielvpina! 
- MSc. in Genetics and Molecular Biology, with an emphasis on Bioinformatics. I am currently developing pipelines for RNAseq data to study plant innate immune systems and viral diversity from RNA samples.
+ PhD Student in Genetics and Molecular Biology, with an emphasis on Bioinformatics. I am currently developing pipelines for RNAseq data to study plant innate immune systems and viral diversity from RNA samples.
 
 
 ## Skills 
