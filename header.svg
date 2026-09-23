@@ -51,7 +51,7 @@
     <line class="rung" x1="757.6" y1="171" x2="678.4" y2="171" stroke="#9b7bff" stroke-width="1.6" stroke-linecap="round" style="animation-delay:1.26s"/>
   </g>
   <text x="28" y="78" class="h1">hi, I'm Gabriel Pina</text>
-  <text x="28" y="106" class="dim">RNA, code, and notes to my future self.</text>
-  <text x="28" y="150"><tspan class="teal">Bioinformatician</tspan><tspan class="dim"> :: </tspan><tspan class="fg">PhD Student</tspan><tspan class="dim"> :: </tspan><tspan class="amb">UESC, Bahia, Brazil</tspan></text>
+  <text x="28" y="106" class="dim">PhD Candidate of Genetics and Molecular Biology.</text>
+  <text x="28" y="150"><tspan class="teal">Bioinformatician</tspan><tspan class="dim"> :: </tspan><tspan class="fg">PhD Candidate</tspan><tspan class="dim"> :: </tspan><tspan class="amb">UESC, Bahia, Brazil</tspan></text>
   <text x="28" y="184" class="dim">gabrielvpina@github:~$ <tspan class="cur">&#9608;</tspan></text>
 </svg>
