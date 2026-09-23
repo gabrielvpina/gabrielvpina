@@ -1,27 +1,32 @@
-### 👋 Hi, I’m @gabrielvpina! 
- PhD Student in Genetics and Molecular Biology, with an emphasis on Bioinformatics. I am currently developing pipelines for RNAseq data to study plant innate immune systems and viral diversity from RNA samples.
+<img src="./header.svg" alt="hi, I'm Gabriel Pina — Bioinformatician, PhD Student, UESC, Bahia, Brazil" width="100%">
 
+[![website](https://img.shields.io/badge/me.log-7247e6?style=flat-square&logo=quarto&logoColor=white)](https://gabrielvpina.github.io)
+[![ORCID](https://img.shields.io/badge/ORCID-1c1a22?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-2294-2845)
+[![Lattes](https://img.shields.io/badge/Lattes-1c1a22?style=flat-square)](https://lattes.cnpq.br/6691808758719803)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1c1a22?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-rodrigues-008419210/)
 
-## Skills 
+### `$ neofetch`
 
-- :zap: Hard Skills: Python, R & Shell Script;
-- :zap: Data Analysis: NGS, RNAseq, GSEA & Data Mining;
+<img src="./neofetch.svg" alt="USER gabrielvpina · FIELD Bioinformatics, Virology · AFFIL Universidade Estadual de Santa Cruz, Ilheus, BA · DEGREE MSc. Genetics and Molecular Biology, PhD in progress · LANGS R, Python, Bash · STACK Linux, Docker, Nextflow, Git · FOCUS finding viruses in data that already exists" width="100%">
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+### `$ research`
 
+▸ **Viral discovery and surveillance** — mining RNA-Seq libraries deposited for
+entirely different purposes, and reading the viral sequences hiding in them
 
+▸ **Metagenomics and viral diversity** — across plants, arthropods and
+fermentation-associated microbial communities
 
+▸ **Endogenous viral elements and small RNAs** — ancient viral integrations in
+bee genomes, and the small RNA pathways that keep them quiet
 
+▸ **Plant immunity** — resistance genes in *Theobroma cacao* and their
+expression under infection
 
+### `$ cat publications.bib`
 
-<!---
-gabrielvpina/gabrielvpina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Cocoa viromes, bee endogenous viral elements, stingless bee miRNAs and the
+ViralQuest pipeline — the full list lives at
+[gabrielvpina.github.io/publications](https://gabrielvpina.github.io/publications/).
+
+<img src="./prompt.svg" alt="gabrielvpina@github:~$" height="26">

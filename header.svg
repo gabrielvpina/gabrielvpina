@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="216" viewBox="0 0 840 216" role="img" aria-label="Gabriel Pina - Bioinformatician, PhD Student, UESC Bahia Brazil">
+  <style>
+    text { font-family: ui-monospace,'SFMono-Regular','JetBrains Mono','Cascadia Code',Menlo,Consolas,monospace; font-size: 15px; dominant-baseline: middle; }
+    .t    { font-size: 13px; letter-spacing: 0.5px; }
+    .dim  { fill: #7b7591; }
+    .fg   { fill: #e2dfeb; }
+    .pur  { fill: #9b7bff; }
+    .teal { fill: #4fd1c5; }
+    .amb  { fill: #f6ad55; }
+    .h1   { font-size: 21px; font-weight: 700; fill: #f2f0f7; }
+    .lbl  { fill: #9b7bff; font-weight: 600; letter-spacing: 1px; }
+    .cur  { fill: #9b7bff; animation: blink 1.15s step-end infinite; }
+    .rung { animation: pulse 2.6s ease-in-out infinite; }
+    .helix{ animation: drift 9s ease-in-out infinite; transform-origin: center; }
+    @keyframes blink { 0%,55% { opacity: 1 } 56%,100% { opacity: 0 } }
+    @keyframes pulse { 0%,100% { opacity: .35 } 50% { opacity: 1 } }
+    @keyframes drift { 0%,100% { opacity: .75 } 50% { opacity: 1 } }
+  </style>
+
+  <defs>
+    <clipPath id="card"><rect x="0.5" y="0.5" width="839" height="215" rx="11"/></clipPath>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1a1526"/><stop offset="100%" stop-color="#12101a"/>
+    </linearGradient>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="840" height="216" fill="url(#glow)"/>
+    <rect width="840" height="36" fill="#1c1a22"/>
+    <rect y="35.5" width="840" height="1" fill="#2c2640"/>
+  </g>
+  <rect x="0.5" y="0.5" width="839" height="215" rx="11" fill="none" stroke="#2c2640"/>
+  <text x="20" y="23" class="t dim">gabriel_pina.exe</text>
+  <g opacity="0.85">
+    <circle cx="778" cy="18" r="5" fill="#f56565"/>
+    <circle cx="798" cy="18" r="5" fill="#ecc94b"/>
+    <circle cx="818" cy="18" r="5" fill="#48bb78"/>
+  </g>
+
+  <g class="helix">
+    <path d="M718.0 54.0 L723.4 56.0 L728.8 58.0 L733.9 60.0 L738.8 62.0 L743.2 64.0 L747.2 66.0 L750.7 68.0 L753.5 70.0 L755.7 72.0 L757.2 74.0 L757.9 76.0 L757.9 78.0 L757.2 80.0 L755.7 82.0 L753.5 84.0 L750.7 86.0 L747.2 88.0 L743.2 90.0 L738.8 92.0 L733.9 94.0 L728.8 96.0 L723.4 98.0 L718.0 100.0 L712.6 102.0 L707.2 104.0 L702.1 106.0 L697.2 108.0 L692.8 110.0 L688.8 112.0 L685.3 114.0 L682.5 116.0 L680.3 118.0 L678.8 120.0 L678.1 122.0 L678.1 124.0 L678.8 126.0 L680.3 128.0 L682.5 130.0 L685.3 132.0 L688.8 134.0 L692.8 136.0 L697.2 138.0 L702.1 140.0 L707.2 142.0 L712.6 144.0 L718.0 146.0 L723.4 148.0 L728.8 150.0 L733.9 152.0 L738.8 154.0 L743.2 156.0 L747.2 158.0 L750.7 160.0 L753.5 162.0 L755.7 164.0 L757.2 166.0 L757.9 168.0 L757.9 170.0 L757.2 172.0 L755.7 174.0 L753.5 176.0 L750.7 178.0 L747.2 180.0 L743.2 182.0 L738.8 184.0" fill="none" stroke="#9b7bff" stroke-width="2.2" stroke-linecap="round"/>
+    <path d="M718.0 54.0 L712.6 56.0 L707.2 58.0 L702.1 60.0 L697.2 62.0 L692.8 64.0 L688.8 66.0 L685.3 68.0 L682.5 70.0 L680.3 72.0 L678.8 74.0 L678.1 76.0 L678.1 78.0 L678.8 80.0 L680.3 82.0 L682.5 84.0 L685.3 86.0 L688.8 88.0 L692.8 90.0 L697.2 92.0 L702.1 94.0 L707.2 96.0 L712.6 98.0 L718.0 100.0 L723.4 102.0 L728.8 104.0 L733.9 106.0 L738.8 108.0 L743.2 110.0 L747.2 112.0 L750.7 114.0 L753.5 116.0 L755.7 118.0 L757.2 120.0 L757.9 122.0 L757.9 124.0 L757.2 126.0 L755.7 128.0 L753.5 130.0 L750.7 132.0 L747.2 134.0 L743.2 136.0 L738.8 138.0 L733.9 140.0 L728.8 142.0 L723.4 144.0 L718.0 146.0 L712.6 148.0 L707.2 150.0 L702.1 152.0 L697.2 154.0 L692.8 156.0 L688.8 158.0 L685.3 160.0 L682.5 162.0 L680.3 164.0 L678.8 166.0 L678.1 168.0 L678.1 170.0 L678.8 172.0 L680.3 174.0 L682.5 176.0 L685.3 178.0 L688.8 180.0 L692.8 182.0 L697.2 184.0" fill="none" stroke="#7247e6" stroke-width="2.2" stroke-linecap="round"/>
+    <line class="rung" x1="736.4" y1="61" x2="699.6" y2="61" stroke="#4fd1c5" stroke-width="1.6" stroke-linecap="round" style="animation-delay:0.00s"/>
+    <line class="rung" x1="755.7" y1="72" x2="680.3" y2="72" stroke="#9b7bff" stroke-width="1.6" stroke-linecap="round" style="animation-delay:0.14s"/>
+    <line class="rung" x1="754.7" y1="83" x2="681.3" y2="83" stroke="#f6ad55" stroke-width="1.6" stroke-linecap="round" style="animation-delay:0.28s"/>
+    <line class="rung" x1="733.9" y1="94" x2="702.1" y2="94" stroke="#7247e6" stroke-width="1.6" stroke-linecap="round" style="animation-delay:0.42s"/>
+    <line class="rung" x1="704.6" y1="105" x2="731.4" y2="105" stroke="#4fd1c5" stroke-width="1.6" stroke-linecap="round" style="animation-delay:0.56s"/>
+    <line class="rung" x1="682.5" y1="116" x2="753.5" y2="116" stroke="#9b7bff" stroke-width="1.6" stroke-linecap="round" style="animation-delay:0.70s"/>
+    <line class="rung" x1="679.5" y1="127" x2="756.5" y2="127" stroke="#f6ad55" stroke-width="1.6" stroke-linecap="round" style="animation-delay:0.84s"/>
+    <line class="rung" x1="697.2" y1="138" x2="738.8" y2="138" stroke="#7247e6" stroke-width="1.6" stroke-linecap="round" style="animation-delay:0.98s"/>
+    <line class="rung" x1="750.7" y1="160" x2="685.3" y2="160" stroke="#4fd1c5" stroke-width="1.6" stroke-linecap="round" style="animation-delay:1.12s"/>
+    <line class="rung" x1="757.6" y1="171" x2="678.4" y2="171" stroke="#9b7bff" stroke-width="1.6" stroke-linecap="round" style="animation-delay:1.26s"/>
+  </g>
+  <text x="28" y="78" class="h1">hi, I'm Gabriel Pina</text>
+  <text x="28" y="106" class="dim">RNA, code, and notes to my future self.</text>
+  <text x="28" y="150"><tspan class="teal">Bioinformatician</tspan><tspan class="dim"> :: </tspan><tspan class="fg">PhD Student</tspan><tspan class="dim"> :: </tspan><tspan class="amb">UESC, Bahia, Brazil</tspan></text>
+  <text x="28" y="184" class="dim">gabrielvpina@github:~$ <tspan class="cur">&#9608;</tspan></text>
+</svg>

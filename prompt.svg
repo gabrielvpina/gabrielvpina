@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="26" viewBox="0 0 260 26" role="img" aria-label="gabrielvpina@github prompt">
+  <style>
+    text { font-family: ui-monospace,'SFMono-Regular','JetBrains Mono','Cascadia Code',Menlo,Consolas,monospace; font-size: 15px; dominant-baseline: middle; }
+    .t    { font-size: 13px; letter-spacing: 0.5px; }
+    .dim  { fill: #7b7591; }
+    .fg   { fill: #e2dfeb; }
+    .pur  { fill: #9b7bff; }
+    .teal { fill: #4fd1c5; }
+    .amb  { fill: #f6ad55; }
+    .h1   { font-size: 21px; font-weight: 700; fill: #f2f0f7; }
+    .lbl  { fill: #9b7bff; font-weight: 600; letter-spacing: 1px; }
+    .cur  { fill: #9b7bff; animation: blink 1.15s step-end infinite; }
+    .rung { animation: pulse 2.6s ease-in-out infinite; }
+    .helix{ animation: drift 9s ease-in-out infinite; transform-origin: center; }
+    @keyframes blink { 0%,55% { opacity: 1 } 56%,100% { opacity: 0 } }
+    @keyframes pulse { 0%,100% { opacity: .35 } 50% { opacity: 1 } }
+    @keyframes drift { 0%,100% { opacity: .75 } 50% { opacity: 1 } }
+  </style>
+  <text x="0" y="14" class="dim">gabrielvpina@github:~$ <tspan class="cur">&#9608;</tspan></text>
+</svg>
