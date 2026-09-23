@@ -1,11 +1,4 @@
-<img src="./header.svg" alt="hi, I'm Gabriel Pina — Bioinformatician, PhD Student, UESC, Bahia, Brazil" width="100%">
-
-[![website](https://img.shields.io/badge/me.log-7247e6?style=flat-square&logo=quarto&logoColor=white)](https://gabrielvpina.github.io)
-[![ORCID](https://img.shields.io/badge/ORCID-1c1a22?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-2294-2845)
-[![Lattes](https://img.shields.io/badge/Lattes-1c1a22?style=flat-square)](https://lattes.cnpq.br/6691808758719803)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1c1a22?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-rodrigues-008419210/)
-
-### `$ neofetch`
+<img src="./header.svg" alt="hi, I'm Gabriel Pina — Bioinformatician, PhD Candidate, UESC, Bahia, Brazil" width="100%">
 
 <img src="./neofetch.svg" alt="USER gabrielvpina · FIELD Bioinformatics, Virology · AFFIL Universidade Estadual de Santa Cruz, Ilheus, BA · DEGREE MSc. Genetics and Molecular Biology, PhD in progress · LANGS R, Python, Bash · STACK Linux, Docker, Nextflow, Git · FOCUS finding viruses in data that already exists" width="100%">
 
