@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="840" height="216" viewBox="0 0 840 216" role="img" aria-label="Gabriel Pina - Bioinformatician, PhD Student, UESC Bahia Brazil">
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="464" viewBox="0 0 840 464" role="img" aria-label="Gabriel Pina - Bioinformatician, PhD Candidate, UESC Bahia Brazil - neofetch profile">
   <style>
-    text { font-family: ui-monospace,'SFMono-Regular','JetBrains Mono','Cascadia Code',Menlo,Consolas,monospace; font-size: 15px; dominant-baseline: middle; }
+    text { font-family: ui-monospace,'SFMono-Regular','JetBrains Mono','Cascadia Code',Menlo,Consolas,monospace; font-size: 15px; }
     .t    { font-size: 13px; letter-spacing: 0.5px; }
     .dim  { fill: #7b7591; }
     .fg   { fill: #e2dfeb; }
@@ -18,18 +18,18 @@
   </style>
 
   <defs>
-    <clipPath id="card"><rect x="0.5" y="0.5" width="839" height="215" rx="11"/></clipPath>
+    <clipPath id="card"><rect x="0.5" y="0.5" width="839" height="463" rx="11"/></clipPath>
     <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#1a1526"/><stop offset="100%" stop-color="#12101a"/>
     </linearGradient>
   </defs>
   <g clip-path="url(#card)">
-    <rect width="840" height="216" fill="url(#glow)"/>
+    <rect width="840" height="464" fill="url(#glow)"/>
     <rect width="840" height="36" fill="#1c1a22"/>
     <rect y="35.5" width="840" height="1" fill="#2c2640"/>
   </g>
-  <rect x="0.5" y="0.5" width="839" height="215" rx="11" fill="none" stroke="#2c2640"/>
-  <text x="20" y="23" class="t dim">gabriel_pina.exe</text>
+  <rect x="0.5" y="0.5" width="839" height="463" rx="11" fill="none" stroke="#2c2640"/>
+  <text x="20" y="27" class="t dim">gabriel_pina.exe</text>
   <g opacity="0.85">
     <circle cx="778" cy="18" r="5" fill="#f56565"/>
     <circle cx="798" cy="18" r="5" fill="#ecc94b"/>
@@ -50,8 +50,18 @@
     <line class="rung" x1="750.7" y1="160" x2="685.3" y2="160" stroke="#4fd1c5" stroke-width="1.6" stroke-linecap="round" style="animation-delay:1.12s"/>
     <line class="rung" x1="757.6" y1="171" x2="678.4" y2="171" stroke="#9b7bff" stroke-width="1.6" stroke-linecap="round" style="animation-delay:1.26s"/>
   </g>
-  <text x="28" y="78" class="h1">hi, I'm Gabriel Pina</text>
-  <text x="28" y="106" class="dim">PhD Candidate of Genetics and Molecular Biology.</text>
-  <text x="28" y="150"><tspan class="teal">Bioinformatician</tspan><tspan class="dim"> :: </tspan><tspan class="fg">PhD Candidate</tspan><tspan class="dim"> :: </tspan><tspan class="amb">UESC, Bahia, Brazil</tspan></text>
-  <text x="28" y="184" class="dim">gabrielvpina@github:~$ <tspan class="cur">&#9608;</tspan></text>
+  <text x="28" y="81" class="h1">hi, I'm Gabriel Pina</text>
+  <text x="28" y="107" class="dim">PhD Candidate of Genetics and Molecular Biology.</text>
+  <text x="28" y="139"><tspan class="teal">Bioinformatician</tspan><tspan class="dim"> :: </tspan><tspan class="fg">PhD Candidate</tspan><tspan class="dim"> :: </tspan><tspan class="amb">UESC, Bahia, Brazil</tspan></text>
+
+  <text x="28" y="181" class="dim">gabrielvpina@github:~$ <tspan class="pur">neofetch</tspan></text>
+  <line x1="28" y1="194" x2="812" y2="194" stroke="#2c2640"/>
+  <text x="28" y="217" class="lbl">USER</text><text x="112" y="217" class="dim">::</text><text x="146" y="217"><tspan class="fg">gabrielvpina</tspan></text>
+  <text x="28" y="247" class="lbl">FIELD</text><text x="112" y="247" class="dim">::</text><text x="146" y="247"><tspan class="teal">Bioinformatics</tspan><tspan class="dim"> :: </tspan><tspan class="teal">Virology</tspan></text>
+  <text x="28" y="277" class="lbl">AFFIL</text><text x="112" y="277" class="dim">::</text><text x="146" y="277"><tspan class="fg">Univ. Estadual de Santa Cruz, Ilheus, BA</tspan></text>
+  <text x="28" y="307" class="lbl">DEGREE</text><text x="112" y="307" class="dim">::</text><text x="146" y="307"><tspan class="fg">MSc. Genetics and Molecular Biology</tspan><tspan class="dim">  //  </tspan><tspan class="amb">PhD in progress</tspan></text>
+  <text x="28" y="337" class="lbl">LANGS</text><text x="112" y="337" class="dim">::</text><text x="146" y="337"><tspan class="pur">R</tspan><tspan class="dim"> :: </tspan><tspan class="pur">Python</tspan><tspan class="dim"> :: </tspan><tspan class="pur">Bash</tspan></text>
+  <text x="28" y="367" class="lbl">STACK</text><text x="112" y="367" class="dim">::</text><text x="146" y="367"><tspan class="fg">Linux</tspan><tspan class="dim"> :: </tspan><tspan class="fg">Docker</tspan><tspan class="dim"> :: </tspan><tspan class="fg">Nextflow</tspan><tspan class="dim"> :: </tspan><tspan class="fg">Git</tspan></text>
+  <text x="28" y="397" class="lbl">FOCUS</text><text x="112" y="397" class="dim">::</text><text x="146" y="397"><tspan class="amb">finding viruses in data that already exists</tspan></text>
+  <text x="28" y="441" class="dim">gabrielvpina@github:~$ <tspan class="cur">&#9608;</tspan></text>
 </svg>
