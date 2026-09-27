@@ -25,4 +25,3 @@ Cocoa viromes, bee endogenous viral elements, stingless bee miRNAs and the
 ViralQuest pipeline — the full list lives at
 [gabrielvpina.github.io/publications](https://gabrielvpina.github.io/publications/).
 
-<img src="./prompt.svg" alt="gabrielvpina@github:~$" height="26">
